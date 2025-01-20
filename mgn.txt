@@ -1,0 +1,126 @@
+<html>
+<head><title>MNREGA - Mahatma Gandhi National Rural Employment Guarantee Act</title></head>
+<body>
+<h1 align="center" style="color:blue;">MNREGA - Mahatma Gandhi National Rural Employment Guarantee Act</h1>
+
+
+<p align="center">
+  <img src="mnrega1.jpeg" width="1500" height="500" alt="Image 1" border="2" style="margin-right: 20px;">
+  
+</p>
+
+<h3 align="center" style="color:black;"><u>Clickable image link to MNREGA website</u></h3>
+<p align="center">
+  <a href="https://nrega.nic.in/" target="_blank">
+    <img src="mnrega2.png" width="300" height="300" alt="MNREGA Logo" border="2">
+  </a>
+</p>
+
+<p>
+<font size="5">
+  <b style="color:green;">1. Objective:</b>
+  <br>
+  <span style="color:darkred;">
+    Aims to provide employment to rural households by guaranteeing 100 days of wage employment annually to every rural household that demands work.  
+    Seeks to enhance livelihood security and improve economic stability in rural areas.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">2. Scope:</b>
+  <br>
+  <span style="color:darkred;">
+    Focuses on rural infrastructure development, including construction of roads, irrigation works, and water conservation projects.  
+    Aims to create long-term sustainable livelihoods in rural areas through skill development and employment generation.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">3. Convergence:</b>
+  <br>
+  <span style="color:darkred;">
+    Works in collaboration with state and local governments to implement rural development projects.  
+    Encourages the integration of different developmental programs to maximize impact and ensure effective resource utilization.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">4. MNREGA Survey:</b>
+  <br>
+  <span style="color:darkred;">
+    Conducts regular surveys to assess the employment demand, wage payments, and completion of public works in rural areas.  
+    Uses data-driven strategies to identify gaps and areas that require more attention.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">5. Community Participation:</b>
+  <br>
+  <span style="color:darkred;">
+    Encourages active participation of local communities in the planning and execution of projects.  
+    Ensures transparency and accountability in the implementation of the scheme through social audits and local oversight.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">6. Vision:</b>
+  <br>
+  <span style="color:darkred;">
+    Strives for sustainable rural development and the empowerment of marginalized communities through guaranteed employment.  
+    Aims to ensure inclusive growth, poverty reduction, and rural prosperity in line with the broader objectives of national development.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">7. Key Features:</b>
+  <br>
+  <span style="color:darkred;">
+    MNREGA focuses on demand-driven wage employment, meaning work is provided on request without discrimination.  
+    Wages are paid directly to workers through bank or post office accounts to ensure transparency.  
+    The program prioritizes women workers, mandating that at least one-third of beneficiaries are women.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">8. Implementation Strategies:</b>
+  <br>
+  <span style="color:darkred;">
+    Gram Panchayats play a crucial role in planning, implementation, and monitoring at the grassroots level.  
+    Focus is placed on decentralized planning to ensure alignment with local needs and priorities.  
+    Emphasis is laid on skill development and capacity building to empower workers for future employment opportunities.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">9. Challenges:</b>
+  <br>
+  <span style="color:darkred;">
+    Despite its success, MNREGA faces challenges such as delayed wage payments, fund allocation bottlenecks, and corruption.  
+    Monitoring and evaluation mechanisms require strengthening to ensure the quality of work and reduce leakages.  
+    Ensuring demand-based employment in remote and underserved areas remains an ongoing challenge.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">10. Achievements:</b>
+  <br>
+  <span style="color:darkred;">
+    MNREGA has contributed significantly to rural development by providing livelihood security and reducing migration.  
+    It has led to the creation of durable assets, such as roads, ponds, and irrigation facilities, benefiting the entire community.  
+    The program has empowered rural women by providing them with economic independence and participation in local governance.
+  </span>
+</p>
+
+<p>
+  <b style="color:green;">11. Future Prospects:</b>
+  <br>
+  <span style="color:darkred;">
+    MNREGA aims to expand its scope by integrating renewable energy and climate-resilient infrastructure projects.  
+    Continued emphasis on skill development and capacity building will enable rural workers to transition to better employment opportunities.  
+    Strengthening governance and technological interventions, such as geotagging of assets, will enhance transparency and accountability.
+  </span>
+</p>
+</font>
+
+</body>
+</html>
